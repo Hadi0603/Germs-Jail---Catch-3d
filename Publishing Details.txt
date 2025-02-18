@@ -1,0 +1,4 @@
+NAME : Germs Jail : Catch 3d
+PACKAGE NAME : com.gjc.germsjailcatch
+COMPANY : GJC
+PASSWORD : airi@dev01
