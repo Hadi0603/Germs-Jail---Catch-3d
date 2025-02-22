@@ -124,6 +124,7 @@ public class UIManager : MonoBehaviour
         pauseBtn.SetActive(false);
         levelLostUI.gameObject.SetActive(true);
         timerText.enabled = false;
+        discMover.SetActive(false);
         levelLostUI.LeanAlpha(1, 0.5f);
         lostPanel.LeanMoveLocalY(0, 0.5f).setEaseOutExpo().delay = 0.1f;
     }
